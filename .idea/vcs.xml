@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../bf/demo-utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../bf/htm-dihw-smarthw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../bf/htm-dihw-smarthw-gjh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../client-sheet-scan-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../dl-zc-px/tom-pt-container" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../dl-zc-px/zx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../dl-zc-px/zx-portal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../htm-composition-analysis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../htm-composition-analysis-old" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../htm-dihw-smarthw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../htm-errorbook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../htm-grade-desc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../i18n-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../legacy-component-iframe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../new/pyj-i18n-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../new/web-pt-vessel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../nx-web-container" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pyj-i18n-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../srv-pt-exam-user-manage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../srv-pt-examination-center" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../srv-pt-precision-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../srv-pt-report-class" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../srv-pt-report-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../srv-pt-report-zxb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../teacher-h5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tfb-shoolbook-report-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tom-pt-container" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-front-report" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-pt-answersheet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-pt-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-pt-header" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-pt-help-zq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-pt-intelligent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-pt-marking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-pt-precision" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-pt-report-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-pt-scan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-pt-scan-muster" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-pt-tricard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-pt-vessel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-tifenbao-campus-report" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-tifenbao-campus-report-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-tifenbao-campus-report-new/web-tifenbao-campus-report" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../zx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../zx-portal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../zx-portal-new" vcs="Git" />
+  </component>
+</project>

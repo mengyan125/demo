@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo $PATH | tr ':' '\\\\n' | head -20)",
+      "Bash(sleep 8 && curl -s http://localhost:8080/api/health || echo \"后端还在启动中...\")",
+      "Bash(powershell -Command \"cd 'D:\\\\xm\\\\claude-code-demo\\\\backend'; mvn spring-boot:run -DsocksProxyHost=127.0.0.1 -DsocksProxyPort=51080 -Dspring.profiles.active=dev\")",
+      "Bash(powershell -Command \"Get-Process | Where-Object {$_.ProcessName -like '*java*'} | Select-Object ProcessName, Id, StartTime\")",
+      "Read(//c/Program Files/Apache/**)",
+      "Read(//c//**)",
+      "Read(//d/xm/claude-code-demo/$HOME/**)"
+    ]
+  }
+}

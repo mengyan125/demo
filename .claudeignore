@@ -1,0 +1,47 @@
+# 依赖目录
+node_modules/
+vendor/
+target/
+
+# 构建产物
+dist/
+build/
+out/
+*.class
+*.jar
+*.war
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+.tmp/
+temp/
+*.tmp
+*.swp
+*.swo
+*~
+
+# IDE 配置
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# 测试覆盖率报告
+coverage/
+.nyc_output/
+
+# 环境配置（可能包含敏感信息）
+.env
+.env.local
+.env.*.local
+
+# 缓存
+.cache/
+.parcel-cache/
+.eslintcache
+
+# 文档生成
+.docusaurus/
